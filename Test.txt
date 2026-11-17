@@ -1,2 +1,4 @@
 This is a small paragraph added to the file. 
 It briefly explains the purpose of this document.
+
+New changes
